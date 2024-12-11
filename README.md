@@ -24,10 +24,10 @@ This repository contains a Python script to check the remaining credits for mult
 2. Install dependencies:
 ```bash
 pip install requests
-
+```
 3. Run The Script :
 ```bash
 python check_api_balance.py
-
+```
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
